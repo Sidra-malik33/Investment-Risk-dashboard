@@ -10,7 +10,8 @@ from sklearn.decomposition import PCA
 from sklearn.metrics import roc_auc_score
 from tensorflow import keras
 from io import StringIO
-from load_dotenv import load_dotenv
+from dotenv import load_dotenv
+
 load_dotenv()
 import os
 # ==============================================
