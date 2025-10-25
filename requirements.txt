@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+matplotlib
+requests
+tensorflow
+scikit-learn
+alpha_vantage
+yfinance
+fastapi
+uvicorn
