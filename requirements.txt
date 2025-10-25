@@ -9,3 +9,4 @@ alpha_vantage
 yfinance
 fastapi
 uvicorn
+seaborn
